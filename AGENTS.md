@@ -16,11 +16,11 @@ installation as above, otherwise the build fails immediately.
 `adb` is also not on the system PATH. It is bundled with Android Studio at:
 
 ```bash
-/opt/android-studio/plugins/android/resources/tools/adb
+/home/matt/Android/Sdk/platform-tools/adb
 ```
 
 Install the debug APK:
 
 ```bash
-/opt/android-studio/plugins/android/resources/tools/adb install app/build/outputs/apk/debug/app-debug.apk
+/home/matt/Android/Sdk/platform-tools/adb install app/build/outputs/apk/debug/app-debug.apk
 ```
