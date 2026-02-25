@@ -1,4 +1,4 @@
-# Reminders App — Specification
+# Very Reminder; Simple App (VRSA) — Specification
 
 ## Overview
 
